@@ -1,0 +1,9 @@
+node_modules
+temp
+about
+howto
+tags-block
+tags-inline
+sidebar.json
+.vitepress/dist
+.vitepress/cache
