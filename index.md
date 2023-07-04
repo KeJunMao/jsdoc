@@ -13,4 +13,13 @@ hero:
     - theme: alt
       text: Official documentation
       link: https://jsdoc.app/index.html
+features:
+  - icon: 🐇
+    title: Content from official documentation
+  - icon: 🚀
+    title: Powered by super-fast Vitepress
+  - icon: 😌
+    title: Incredible user experience
+  - icon: ✨
+    title: Algolia full-site search
 ---
