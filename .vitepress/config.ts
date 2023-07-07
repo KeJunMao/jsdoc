@@ -11,9 +11,9 @@ export default defineConfig({
     search: {
       provider: "algolia",
       options: {
-        apiKey: "",
-        appId: "",
-        indexName: "",
+        apiKey: "6ce0ed0583b2bfa1bf7ce6d169f34943",
+        appId: "KWJHO3S8KZ",
+        indexName: "vjsnetlify",
       },
     },
     // https://vitepress.dev/reference/default-theme-config
