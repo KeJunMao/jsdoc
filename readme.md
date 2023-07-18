@@ -7,4 +7,4 @@ Unofficial documentation for JSDoc 3.
 - 😌 Incredible user experience
 - ✨ Algolia full-site search
 
-📖 Click [here](https://vitepress.dev/) to read the documentation
+📖 Click [here](https://vjsdoc.netlify.app/) to read the documentation
